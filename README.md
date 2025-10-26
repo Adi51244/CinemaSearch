@@ -8,9 +8,20 @@
 
 *Built with React, Material-UI, and a trendy dark theme with glassmorphism design elements*
 
+## 🚀 **Live Demo**
+
+### **[🎬 Try CinemaSearch Live →](https://cinema-search-one.vercel.app/)**
+
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Now-success?style=for-the-badge&logo=vercel)](https://cinema-search-one.vercel.app/)
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://cinema-search-one.vercel.app/)
+
 [![Made with React](https://img.shields.io/badge/Made%20with-React-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://mui.com/)
 [![OMDb API](https://img.shields.io/badge/OMDb-API-FF6B6B?style=for-the-badge)](http://www.omdbapi.com/)
+
+![Demo GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
+*"Experience the magic of movie searching in your browser!"*
 
 </div>
 
@@ -262,6 +273,18 @@ npm start
 ![Success](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 *"When localhost:3000 finally loads"*
+
+</div>
+
+### 🌐 **Or Just Use the Live Demo!**
+
+**Too lazy to set up locally?** No problem! 😄
+
+<div align="center">
+
+[![🎬 Open Live Demo](https://img.shields.io/badge/🎬%20Open%20Live%20Demo-Click%20Here-ff6b6b?style=for-the-badge&logoColor=white)](https://cinema-search-one.vercel.app/)
+
+*"One click and you're searching movies!"*
 
 </div>
 
